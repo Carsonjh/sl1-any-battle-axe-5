@@ -40,8 +40,7 @@
 
   - 99 dupe soul
   - buy homeward
-  - buy any talisman
-  - index 99 (backout of purchase or insufficient souls)
+  - buy 1k talisman
 
 </details>
 <details open>
@@ -56,7 +55,6 @@
   <summary>Londo to Valley</summary>
   
   - pickup estoc
-  - pickup soul
 
 </details>
 <details open>
@@ -65,13 +63,11 @@
   - change order darksign to top
   - equip talisman 2
   - equip pyro 4
-  - menu for dupe
 
 </details>
 <details open>
   <summary>Post Ladder</summary>
 
-  - 99 dupe soul
   - pickup RTSR
   - upwarp
 
