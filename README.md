@@ -63,6 +63,7 @@
   - change order darksign to top
   - equip talisman 2
   - equip pyro 4
+  - equip all armor
 
 </details>
 <details open>
@@ -114,22 +115,21 @@
 
   - equip estoc 1 on standup
   - ledge boost
-  - moveswap
+  - RTSR setup on giant fast attack
+    - toggle through (stop sprint/non-counter)
   - delayed roll
+    - glitchless drop as RTSR backup
   - avoid poison buildup
     - long pathing
     - unequip/re-equip armor to reset poison
-  - delayed roll
-  - equip RTSR in swamp
-  - blossom in cave
+  - moveswap
 
 </details>
 <details open>
   <summary>Kill Quelaag</summary>
 
-  - equip RTSR on fog if needed
+  - equip RTSR on fog
   - ring bell
-  - equip shield 2
   - darksign
 
 </details>
@@ -138,18 +138,18 @@
 <details open>
   <summary>Parish to Hollow Room</summary>
 
+  - keep moveswap
   - setup RTSR on berenike knight (glitchless setup)
-    - 1h battle axe block balder knight as backup
-    - toggle hollow warrior attack as backup
-  - 2h shield past balder knight
-  - 1h shield for hollow shove
-  - equip battle axe 2 on ladder
+    - battle axe block balder knight as backup
+    - non-counter hollow warrior as backup
+  - strafe or running attack balder
+  - running attack hollow if blocking
 
 </details>
 <details open>
   <summary>Kill Gargoyles</summary>
 
-  - R2 tail cut, 3x R1
+  - R2 tail cut, R1, running attack
   - 2x R1
   - menu on ladder
     - change order bow to below battle axe
@@ -157,6 +157,8 @@
     - equip bow 3
     - equip arrows
     - unequip RTSR
+  - ring bell
+  - darksign
 
 </details>
 
@@ -164,15 +166,15 @@
 <details open>
   <summary>Sens</summary>
 
-  - moveswap bridge before boulder
-    - equip ssh 1 on fog 1 as backup
-      - equip estoc 1 on fog 2 as backup
+  - keep moveswap
+  - setup RTSR on 3rd arrow of 1st trap
+    - sprint/counter-hit
 
 </details>
 <details open>
   <summary>Kill Iron Golem</summary>
 
-  - moveswap upper sens if needed
+  - quitout for optimal bomb cycle
   - equip RTSR on fog
 
 </details>
