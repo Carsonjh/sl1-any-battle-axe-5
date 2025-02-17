@@ -115,9 +115,10 @@
   - equip estoc 1 on standup
   - ledge boost
   - moveswap
-  - glitchless drop
-    - single roll to sprint (take fall damage avoid hardfall)
-  - plunge blowdart for purple blossom
+  - delayed roll
+  - avoid poison buildup
+    - long pathing
+    - unequip/re-equip armor to reset poison
   - delayed roll
   - equip RTSR in swamp
   - blossom in cave
