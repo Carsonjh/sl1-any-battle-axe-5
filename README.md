@@ -115,7 +115,7 @@
 
   - equip estoc 1 on standup
   - ledge boost
-  - RTSR setup on giant fast attack
+  - setup RTSR on giant fast attack
     - toggle through (stop sprint/non-counter)
   - delayed roll
     - glitchless drop as RTSR backup
